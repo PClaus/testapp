@@ -32,8 +32,8 @@ production:
   adapter: mysql2
   encoding: utf8
   reconnect: false
-  database: testapp_production
+  database: db3006999
   pool: 5
-  username: root
-  password:
-  host: localhost
+  username: '3006999'
+  password: M!pete0324
+  host: active-dating.eu
