@@ -1,0 +1,4 @@
+gemhome: &GemHome 	/kunden/300699_12437/.gem 
+gempath:
+ - *GemHome
+ - /usr/lib/ruby/gems/1.8 
