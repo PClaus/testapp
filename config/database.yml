@@ -32,8 +32,8 @@ production:
   adapter: mysql2
   encoding: utf8
   reconnect: false
-  database: db3006999
+  database: db300699
   pool: 5
-  username: '3006999'
+  username: db300699
   password: M!pete0324
-  host: active-dating.eu
+  host: mysql.activedating.eu
